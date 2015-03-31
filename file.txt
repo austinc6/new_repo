@@ -1,3 +1,4 @@
 ‘testfile’
 I am an update
 Another update
+I resetted, and now am updating again
